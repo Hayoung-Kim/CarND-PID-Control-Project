@@ -6,9 +6,9 @@ Self-Driving Car Engineer Nanodegree Program
 
 The result of this project is not very satisfactory. If you want to see lane keeping via Model Predictive Control(MPC), please move to [`MPC Lane Keeping Project`](https://github.com/Hayoung-Kim/MPC-LaneKeeping-Project).
 
-Click `gif image` if you want to see full version video of this PID project. 
+Click [`youtube link`](https://youtu.be/WthybjvOGJo) if you want to see full version video of this PID project. 
 <p align="center">
-  [<img src="./img/pid_8mb.gif">](https://youtu.be/WthybjvOGJo)
+  <img src="./img/pid_8mb.gif">
 </p>
 
 ## Reflections
